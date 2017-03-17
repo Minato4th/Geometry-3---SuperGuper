@@ -1,0 +1,5 @@
+
+interface Resizable {
+
+    void change();
+}
